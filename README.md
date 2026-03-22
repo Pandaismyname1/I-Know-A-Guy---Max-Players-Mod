@@ -57,10 +57,10 @@ Requires .NET 6 SDK.
 
 ```bash
 # Clone the repo into your game directory (next to MelonLoader/)
-git clone https://github.com/Pandaismyname1/IKnowAGuyMaxPlayersMod.git
+git clone https://github.com/Pandaismyname1/I-Know-A-Guy---Max-Players-Mod.git
 
 # Build
-cd IKnowAGuyMaxPlayersMod
+cd I-Know-A-Guy---Max-Players-Mod
 dotnet build -c Release
 
 # Deploy
