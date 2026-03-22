@@ -1,0 +1,9 @@
+{
+    "name": "MaxPlayersMod",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Pandaismyname1/I-Know-A-Guy---Max-Players-Mod",
+    "description": "Increase the maximum lobby player count beyond the default 4. Configurable up to any number with UI dropdown extension and spawn point wrapping.",
+    "dependencies": [
+        "LavaGang-MelonLoader-0.7.2"
+    ]
+}

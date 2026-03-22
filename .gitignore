@@ -1,0 +1,9 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.idea
+
+# Don't commit game/MelonLoader assemblies - they're referenced via relative paths
+# and users must have MelonLoader installed in the game directory
